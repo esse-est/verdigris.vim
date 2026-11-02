@@ -3,7 +3,7 @@ syntax reset
 let g:colors_name = "verdigris"
 set background=dark
 set t_Co=256
-hi Normal guifg=#e8dcc6 ctermbg=NONE guibg=#221c12 gui=NONE
+hi Normal guifg=#e8dcc6 ctermbg=NONE guibg=#14110b gui=NONE
 
 hi DiffText guifg=#c97a45 guibg=NONE
 hi ErrorMsg guifg=#c97a45 guibg=NONE
@@ -60,17 +60,17 @@ hi cssAttr guifg=#172931 guibg=NONE
 
 
 hi Pmenu guifg=#e8dcc6 guibg=#454545
-hi SignColumn guibg=#221c12
+hi SignColumn guibg=#14110b
 hi Title guifg=#e8dcc6
-hi LineNr guifg=#a17f41 guibg=#221c12
-hi NonText guifg=#6e6450 guibg=#221c12
+hi LineNr guifg=#a17f41 guibg=#14110b
+hi NonText guifg=#6e6450 guibg=#14110b
 hi Comment guifg=#6e6450 gui=italic
 hi SpecialComment guifg=#6e6450 gui=italic guibg=NONE
 hi CursorLine guibg=#454545
 hi TabLineFill gui=NONE guibg=#454545
 hi TabLine guifg=#a17f41 guibg=#454545 gui=NONE
 hi StatusLine gui=bold guibg=#454545 guifg=#e8dcc6
-hi StatusLineNC gui=NONE guibg=#221c12 guifg=#e8dcc6
+hi StatusLineNC gui=NONE guibg=#14110b guifg=#e8dcc6
 hi Search guibg=#6e6450 guifg=#e8dcc6
 hi VertSplit gui=NONE guifg=#454545 guibg=NONE
 hi Visual gui=NONE guibg=#454545
