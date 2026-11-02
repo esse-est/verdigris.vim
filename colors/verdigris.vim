@@ -54,9 +54,9 @@ hi Include guifg=#c481ff guibg=NONE
 hi Storage guifg=#c481ff guibg=NONE
 hi cssClassName guifg=#c481ff guibg=NONE
 hi cssClassNameDot guifg=#c481ff guibg=NONE
-hi Statement guifg=#172931 guibg=NONE
-hi Operator guifg=#172931 guibg=NONE
-hi cssAttr guifg=#172931 guibg=NONE
+hi Statement guifg=#a8b86a guibg=NONE
+hi Operator guifg=#a8b86a guibg=NONE
+hi cssAttr guifg=#a8b86a guibg=NONE
 
 
 hi Pmenu guifg=#e8dcc6 guibg=#454545
